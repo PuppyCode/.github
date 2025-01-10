@@ -62,7 +62,7 @@ We specialize in developing apps (Android & iOS), websites, and various blockcha
 ### Contact & More Info
 - **Company Name**: PuppyCode  
 - **Official Website**: [https://puppycode.com](https://puppycode.com)
-- **Telegram**: rayaigc
+- **Telegram**: [https://t.me/rayaigc](https://t.me/rayaigc)
 
 ---
 
@@ -124,5 +124,5 @@ PuppyCode 是一家拥有近 8 年区块链开发经验的原生区块链技术�
 ### 联系 & 更多信息
 - **公司名称**: PuppyCode  
 - **官方网站**: [https://puppycode.com](https://puppycode.com)
-- **电报**： rayaigc
+- **电报**： [https://t.me/rayaigc](https://t.me/rayaigc)
 
